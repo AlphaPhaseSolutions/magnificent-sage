@@ -1,18 +1,17 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
-    template: section_contact
-    section_id: contact
-    title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
-menus:
-  secondary:
-    title: Contact
-    weight: 3
+- type: section_contact
+  template: section_contact
+  section_id: contact
+  title: Contact
+  content: If you are interested in hiring us for any of our design services please
+    fill out this form and we will get back to you within 24 Hrs!
+  bg: gray
+  subtitle: ''
 layout: landing
+menu:
+  secondary:
+    weight: 3
+
 ---
