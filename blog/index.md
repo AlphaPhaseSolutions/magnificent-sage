@@ -1,8 +1,8 @@
 ---
-title: Blog
-menus:
-  secondary:
-    title: Blog
-    weight: 2
+title: Room Talk
 layout: blog
+menu:
+  secondary:
+    weight: 2
+
 ---
